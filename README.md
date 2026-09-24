@@ -1,1 +1,1 @@
-Marco Bajuyo's main git repo.
+Marco Bajuyo's essential runtime components
